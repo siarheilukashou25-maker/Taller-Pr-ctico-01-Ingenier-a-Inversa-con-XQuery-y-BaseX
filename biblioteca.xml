@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="biblioteca.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<biblioteca>
+    <libro id="1" categoria="programacion">
+        <titulo>XQuery para Expertos</titulo>
+        <autor>Ana García</autor>
+        <publicacion>2023</publicacion>
+        <precio moneda="EUR">35.00</precio>
+    </libro>
+    <libro id="2" categoria="programacion">
+        <titulo>Mastering XML</titulo>
+        <autor>Ana García</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">42.00</precio>
+    </libro>
+    <libro id="3" categoria="programacion">
+        <titulo>Java Moderno</titulo>
+        <autor>Carlos Ruiz</autor>
+        <publicacion>2022</publicacion>
+        <precio moneda="EUR">29.95</precio>
+    </libro>
+    <libro id="4" categoria="programacion">
+        <titulo>Python Avanzado</titulo>
+        <autor>Elena Beltrán</autor>
+        <publicacion>2025</publicacion>
+        <precio moneda="EUR">38.50</precio>
+    </libro>
+    <libro id="5" categoria="programacion">
+        <titulo>Estructuras de Datos</titulo>
+        <autor>Ana García</autor>
+        <publicacion>2021</publicacion>
+        <precio moneda="EUR">22.00</precio>
+    </libro>
+    <libro id="6" categoria="programacion">
+        <titulo>Kotlin para Android</titulo>
+        <autor>Luis Miguel Sanz</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">45.00</precio>
+    </libro>
+    
+    <libro id="7" categoria="sistemas">
+        <titulo>Admin Linux</titulo>
+        <autor>Juan Pérez</autor>
+        <publicacion>2021</publicacion>
+        <precio moneda="EUR">25.50</precio>
+    </libro>
+    <libro id="8" categoria="sistemas">
+        <titulo>Docker y Kubernetes</titulo>
+        <autor>Juan Pérez</autor>
+        <publicacion>2023</publicacion>
+        <precio moneda="EUR">33.00</precio>
+    </libro>
+    <libro id="9" categoria="sistemas">
+        <titulo>Seguridad en Redes</titulo>
+        <autor>Marta Sánchez</autor>
+        <publicacion>2020</publicacion>
+        <precio moneda="EUR">40.00</precio>
+    </libro>
+    <libro id="10" categoria="sistemas">
+        <titulo>Virtualización Total</titulo>
+        <autor>Juan Pérez</autor>
+        <publicacion>2022</publicacion>
+        <precio moneda="EUR">28.00</precio>
+    </libro>
+    <libro id="11" categoria="sistemas">
+        <titulo>Scripting en Bash</titulo>
+        <autor>Roberto Flores</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">19.90</precio>
+    </libro>
+    
+    <libro id="12" categoria="desarrollo web">
+        <titulo>HTML5 y CSS3</titulo>
+        <autor>Sara Domínguez</autor>
+        <publicacion>2023</publicacion>
+        <precio moneda="EUR">24.00</precio>
+    </libro>
+    <libro id="13" categoria="desarrollo web">
+        <titulo>React 18</titulo>
+        <autor>Sara Domínguez</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">36.00</precio>
+    </libro>
+    <libro id="14" categoria="desarrollo web">
+        <titulo>Node.js Backend</titulo>
+        <autor>David López</autor>
+        <publicacion>2025</publicacion>
+        <precio moneda="EUR">39.00</precio>
+    </libro>
+    <libro id="15" categoria="desarrollo web">
+        <titulo>Diseño UI/UX</titulo>
+        <autor>Sara Domínguez</autor>
+        <publicacion>2021</publicacion>
+        <precio moneda="EUR">31.00</precio>
+    </libro>
+    <libro id="16" categoria="desarrollo web">
+        <titulo>Vue.js Práctico</titulo>
+        <autor>Irene Castro</autor>
+        <publicacion>2022</publicacion>
+        <precio moneda="EUR">27.50</precio>
+    </libro>
+    
+    <libro id="17" categoria="bases de datos">
+        <titulo>SQL Moderno</titulo>
+        <autor>Miguel Ángel Lara</autor>
+        <publicacion>2023</publicacion>
+        <precio moneda="EUR">32.00</precio>
+    </libro>
+    <libro id="18" categoria="bases de datos">
+        <titulo>MongoDB y NoSQL</titulo>
+        <autor>Miguel Ángel Lara</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">41.00</precio>
+    </libro>
+    <libro id="19" categoria="bases de datos">
+        <titulo>Arquitectura de Datos</titulo>
+        <autor>Beatriz Ortiz</autor>
+        <publicacion>2020</publicacion>
+        <precio moneda="EUR">55.00</precio>
+    </libro>
+    <libro id="20" categoria="bases de datos">
+        <titulo>Optimización Queries</titulo>
+        <autor>Miguel Ángel Lara</autor>
+        <publicacion>2025</publicacion>
+        <precio moneda="EUR">34.50</precio>
+    </libro>
+    
+    <libro id="21" categoria="IA">
+        <titulo>Prompt Engineering</titulo>
+        <autor>Jorge Valdés</autor>
+        <publicacion>2026</publicacion>
+        <precio moneda="EUR">48.00</precio>
+    </libro>
+    <libro id="22" categoria="IA">
+        <titulo>Machine Learning</titulo>
+        <autor>Jorge Valdés</autor>
+        <publicacion>2025</publicacion>
+        <precio moneda="EUR">52.00</precio>
+    </libro>
+    <libro id="23" categoria="IA">
+        <titulo>Ética en la IA</titulo>
+        <autor>Sofía Vergara</autor>
+        <publicacion>2024</publicacion>
+        <precio moneda="EUR">26.00</precio>
+    </libro>
+    <libro id="24" categoria="IA">
+        <titulo>NLP con Python</titulo>
+        <autor>Jorge Valdés</autor>
+        <publicacion>2026</publicacion>
+        <precio moneda="EUR">49.95</precio>
+    </libro>
+    <libro id="25" categoria="sistemas">
+        <titulo>Windows Server 2025</titulo>
+        <autor>Roberto Flores</autor>
+        <publicacion>2025</publicacion>
+        <precio moneda="EUR">44.00</precio>
+    </libro>
+</biblioteca>
